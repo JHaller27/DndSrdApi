@@ -64,7 +64,7 @@ def get_canvas(base=Depends(get_base), noisy_paint_getter=Depends(get_noisy_pain
     return canvas
 
 
-@app.get("/", response_class=FileResponse)
+@app.get("/wallpaper", response_class=FileResponse)
 def wallpaper(canvas=Depends(get_canvas)):
     store_dir = os.environ.get('IMAGE_STORE', '/tmp')
     store_path = Path(store_dir)
@@ -73,3 +73,9 @@ def wallpaper(canvas=Depends(get_canvas)):
     canvas.save_to(str(path))
 
     return path
+
+
+@app.get("/")
+def home_route():
+    return {"alive": True}
+
