@@ -1,0 +1,10103 @@
+[
+  {
+    "name": "Aboleth",
+    "type": {
+      "size": "Large",
+      "type": "aberration",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 135,
+      "num_dice": 18,
+      "die_size": 10,
+      "mod": 36
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "10",
+      "xp": "5,900"
+    }
+  },
+  {
+    "name": "Acolyte",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 9,
+      "num_dice": 2,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Adult Black Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 195,
+      "num_dice": 17,
+      "die_size": 12,
+      "mod": 85
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "14",
+      "xp": "11,500"
+    }
+  },
+  {
+    "name": "Adult Blue Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 225,
+      "num_dice": 18,
+      "die_size": 12,
+      "mod": 108
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "16",
+      "xp": "15,000"
+    }
+  },
+  {
+    "name": "Adult Brass Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 172,
+      "num_dice": 15,
+      "die_size": 12,
+      "mod": 75
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "13",
+      "xp": "10,000"
+    }
+  },
+  {
+    "name": "Adult Bronze Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 212,
+      "num_dice": 17,
+      "die_size": 12,
+      "mod": 102
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "15",
+      "xp": "13,000"
+    }
+  },
+  {
+    "name": "Adult Copper Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 184,
+      "num_dice": 16,
+      "die_size": 12,
+      "mod": 80
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "climb"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "14",
+      "xp": "11,500"
+    }
+  },
+  {
+    "name": "Adult Gold Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 256,
+      "num_dice": 19,
+      "die_size": 12,
+      "mod": 133
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "17",
+      "xp": "18,000"
+    }
+  },
+  {
+    "name": "Adult Green Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 207,
+      "num_dice": 18,
+      "die_size": 12,
+      "mod": 90
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "15",
+      "xp": "13,000"
+    }
+  },
+  {
+    "name": "Adult Red Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 256,
+      "num_dice": 19,
+      "die_size": 12,
+      "mod": 133
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "climb"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "17",
+      "xp": "18,000"
+    }
+  },
+  {
+    "name": "Adult Silver Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 243,
+      "num_dice": 18,
+      "die_size": 12,
+      "mod": 126
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "16",
+      "xp": "15,000"
+    }
+  },
+  {
+    "name": "Adult White Dragon",
+    "type": {
+      "size": "Huge",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 200,
+      "num_dice": 16,
+      "die_size": 12,
+      "mod": 96
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "13",
+      "xp": "10,000"
+    }
+  },
+  {
+    "name": "Air Elemental",
+    "type": {
+      "size": "Large",
+      "type": "elemental",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 90,
+      "num_dice": 12,
+      "die_size": 10,
+      "mod": 24
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 90,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Ancient Black Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 367,
+      "num_dice": 21,
+      "die_size": 20,
+      "mod": 147
+    },
+    "armor": {
+      "armor_class": 22,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "21",
+      "xp": "33,000"
+    }
+  },
+  {
+    "name": "Ancient Blue Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 481,
+      "num_dice": 26,
+      "die_size": 20,
+      "mod": 208
+    },
+    "armor": {
+      "armor_class": 22,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "23",
+      "xp": "50,000"
+    }
+  },
+  {
+    "name": "Ancient Brass Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 297,
+      "num_dice": 17,
+      "die_size": 20,
+      "mod": 119
+    },
+    "armor": {
+      "armor_class": 20,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "20",
+      "xp": "25,000"
+    }
+  },
+  {
+    "name": "Ancient Bronze Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 444,
+      "num_dice": 24,
+      "die_size": 20,
+      "mod": 192
+    },
+    "armor": {
+      "armor_class": 22,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "22",
+      "xp": "41,000"
+    }
+  },
+  {
+    "name": "Ancient Copper Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 350,
+      "num_dice": 20,
+      "die_size": 20,
+      "mod": 140
+    },
+    "armor": {
+      "armor_class": 21,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "climb"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "21",
+      "xp": "33,000"
+    }
+  },
+  {
+    "name": "Ancient Gold Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 546,
+      "num_dice": 28,
+      "die_size": 20,
+      "mod": 252
+    },
+    "armor": {
+      "armor_class": 22,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "24",
+      "xp": "62,000"
+    }
+  },
+  {
+    "name": "Ancient Green Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 385,
+      "num_dice": 22,
+      "die_size": 20,
+      "mod": 154
+    },
+    "armor": {
+      "armor_class": 21,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "22",
+      "xp": "41,000"
+    }
+  },
+  {
+    "name": "Ancient Red Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 546,
+      "num_dice": 28,
+      "die_size": 20,
+      "mod": 252
+    },
+    "armor": {
+      "armor_class": 22,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "climb"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "24",
+      "xp": "62,000"
+    }
+  },
+  {
+    "name": "Ancient Silver Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 487,
+      "num_dice": 25,
+      "die_size": 20,
+      "mod": 225
+    },
+    "armor": {
+      "armor_class": 22,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "23",
+      "xp": "50,000"
+    }
+  },
+  {
+    "name": "Ancient White Dragon",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 333,
+      "num_dice": 18,
+      "die_size": 20,
+      "mod": 144
+    },
+    "armor": {
+      "armor_class": 20,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "20",
+      "xp": "25,000"
+    }
+  },
+  {
+    "name": "Androsphinx",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Lawful Neutral"
+    },
+    "health": {
+      "avg": 199,
+      "num_dice": 19,
+      "die_size": 10,
+      "mod": 95
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "17",
+      "xp": "18,000"
+    }
+  },
+  {
+    "name": "Animated Armor",
+    "type": {
+      "size": "Medium",
+      "type": "construct",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 33,
+      "num_dice": 6,
+      "die_size": 8,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 25,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Ankheg",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 39,
+      "num_dice": 6,
+      "die_size": 10,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor, 11 While Prone"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 10,
+        "unit": "ft.",
+        "type": "burrow"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Ape",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 8,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Archmage",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 99,
+      "num_dice": 18,
+      "die_size": 8,
+      "mod": 18
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "15 With Mage Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "12",
+      "xp": "8,400"
+    }
+  },
+  {
+    "name": "Assassin",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Non-good Alignment"
+    },
+    "health": {
+      "avg": 78,
+      "num_dice": 12,
+      "die_size": 8,
+      "mod": 24
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Studded Leather"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Awakened Shrub",
+    "type": {
+      "size": "Small",
+      "type": "plant",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 10,
+      "num_dice": 3,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 9,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Awakened Tree",
+    "type": {
+      "size": "Huge",
+      "type": "plant",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 59,
+      "num_dice": 7,
+      "die_size": 12,
+      "mod": 14
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Axe Beak",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Azer",
+    "type": {
+      "size": "Medium",
+      "type": "elemental",
+      "alignment": "Lawful Neutral"
+    },
+    "health": {
+      "avg": 39,
+      "num_dice": 6,
+      "die_size": 8,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor, Shield"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Baboon",
+    "type": {
+      "size": "Small",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 3,
+      "num_dice": 1,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Badger",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 3,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": 1
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 5,
+        "unit": "ft.",
+        "type": "burrow"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Balor",
+    "type": {
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 262,
+      "num_dice": 21,
+      "die_size": 12,
+      "mod": 126
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "19",
+      "xp": "22,000"
+    }
+  },
+  {
+    "name": "Bandit",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Non-lawful Alignment"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Leather Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Bandit Captain",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Non-lawful Alignment"
+    },
+    "health": {
+      "avg": 65,
+      "num_dice": 10,
+      "die_size": 8,
+      "mod": 20
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Studded Leather"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Barbed Devil",
+    "type": {
+      "size": "Medium",
+      "type": "fiend (devil)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 110,
+      "num_dice": 13,
+      "die_size": 8,
+      "mod": 52
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Basilisk",
+    "type": {
+      "size": "Medium",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 8,
+      "die_size": 8,
+      "mod": 16
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Bat",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 5,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Bearded Devil",
+    "type": {
+      "size": "Medium",
+      "type": "fiend (devil)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 8,
+      "die_size": 8,
+      "mod": 16
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Behir",
+    "type": {
+      "size": "Huge",
+      "type": "monstrosity",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 168,
+      "num_dice": 16,
+      "die_size": 12,
+      "mod": 64
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "11",
+      "xp": "7,200"
+    }
+  },
+  {
+    "name": "Berserker",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Chaotic Alignment"
+    },
+    "health": {
+      "avg": 67,
+      "num_dice": 9,
+      "die_size": 8,
+      "mod": 27
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Hide Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Black Bear",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 8,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Black Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 33,
+      "num_dice": 6,
+      "die_size": 8,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Black Pudding",
+    "type": {
+      "size": "Large",
+      "type": "ooze",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 85,
+      "num_dice": 10,
+      "die_size": 10,
+      "mod": 30
+    },
+    "armor": {
+      "armor_class": 7,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Blink Dog",
+    "type": {
+      "size": "Medium",
+      "type": "fey",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 4,
+      "die_size": 8,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Blood Hawk",
+    "type": {
+      "size": "Small",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 7,
+      "num_dice": 2,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Blue Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 8,
+      "die_size": 8,
+      "mod": 16
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 15,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Boar",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Bone Devil",
+    "type": {
+      "size": "Large",
+      "type": "fiend (devil)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 142,
+      "num_dice": 15,
+      "die_size": 10,
+      "mod": 60
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "9",
+      "xp": "5,000"
+    }
+  },
+  {
+    "name": "Brass Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 16,
+      "num_dice": 3,
+      "die_size": 8,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 15,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Bronze Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 32,
+      "num_dice": 5,
+      "die_size": 8,
+      "mod": 10
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Brown Bear",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 34,
+      "num_dice": 4,
+      "die_size": 10,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Bugbear",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (goblinoid)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 27,
+      "num_dice": 5,
+      "die_size": 8,
+      "mod": 5
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Hide Armor, Shield"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Bulette",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 94,
+      "num_dice": 9,
+      "die_size": 10,
+      "mod": 45
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "burrow"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Camel",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 15,
+      "num_dice": 2,
+      "die_size": 10,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 9,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Cat",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 2,
+      "num_dice": 1,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Centaur",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Neutral Good"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 6,
+      "die_size": 10,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Chain Devil",
+    "type": {
+      "size": "Medium",
+      "type": "fiend (devil)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 85,
+      "num_dice": 10,
+      "die_size": 8,
+      "mod": 40
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Chimera",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 114,
+      "num_dice": 12,
+      "die_size": 10,
+      "mod": 48
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Chuul",
+    "type": {
+      "size": "Large",
+      "type": "aberration",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 93,
+      "num_dice": 11,
+      "die_size": 10,
+      "mod": 33
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Clay Golem",
+    "type": {
+      "size": "Large",
+      "type": "construct",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 133,
+      "num_dice": 14,
+      "die_size": 10,
+      "mod": 56
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "9",
+      "xp": "5,000"
+    }
+  },
+  {
+    "name": "Cloaker",
+    "type": {
+      "size": "Large",
+      "type": "aberration",
+      "alignment": "Chaotic Neutral"
+    },
+    "health": {
+      "avg": 78,
+      "num_dice": 12,
+      "die_size": 10,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Cloud Giant",
+    "type": {
+      "size": "Huge",
+      "type": "giant",
+      "alignment": "Neutral Good (50%) Or Neutral Evil (50%)"
+    },
+    "health": {
+      "avg": 200,
+      "num_dice": 16,
+      "die_size": 12,
+      "mod": 96
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "9",
+      "xp": "5,000"
+    }
+  },
+  {
+    "name": "Cockatrice",
+    "type": {
+      "size": "Small",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 27,
+      "num_dice": 6,
+      "die_size": 6,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Commoner",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 4,
+      "num_dice": 1,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Constrictor Snake",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 2,
+      "die_size": 10,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Copper Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 4,
+      "die_size": 8,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.,",
+        "type": "climb"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Couatl",
+    "type": {
+      "size": "Medium",
+      "type": "celestial",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 97,
+      "num_dice": 13,
+      "die_size": 8,
+      "mod": 39
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 90,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Crab",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 2,
+      "num_dice": 1,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Crocodile",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Cult Fanatic",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Non-good Alignment"
+    },
+    "health": {
+      "avg": 33,
+      "num_dice": 6,
+      "die_size": 8,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Leather Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Cultist",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Non-good Alignment"
+    },
+    "health": {
+      "avg": 9,
+      "num_dice": 2,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Leather Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Darkmantle",
+    "type": {
+      "size": "Small",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 6,
+      "mod": 5
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Death Dog",
+    "type": {
+      "size": "Medium",
+      "type": "monstrosity",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 39,
+      "num_dice": 6,
+      "die_size": 8,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Deep Gnome (Svirfneblin)",
+    "type": {
+      "size": "Small",
+      "type": "humanoid (gnome)",
+      "alignment": "Neutral Good"
+    },
+    "health": {
+      "avg": 16,
+      "num_dice": 3,
+      "die_size": 6,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "chain shirt"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Deer",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 4,
+      "num_dice": 1,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Deva",
+    "type": {
+      "size": "Medium",
+      "type": "celestial",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 136,
+      "num_dice": 16,
+      "die_size": 8,
+      "mod": 64
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 90,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "10",
+      "xp": "5,900"
+    }
+  },
+  {
+    "name": "Dire Wolf",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 37,
+      "num_dice": 5,
+      "die_size": 10,
+      "mod": 10
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Diseased Giant Rat",
+    "type": {
+      "size": "Small",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 7,
+      "num_dice": 2,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Djinni",
+    "type": {
+      "size": "Large",
+      "type": "elemental",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 161,
+      "num_dice": 14,
+      "die_size": 10,
+      "mod": 84
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 90,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "11",
+      "xp": "7,200"
+    }
+  },
+  {
+    "name": "Doppelganger",
+    "type": {
+      "size": "Medium",
+      "type": "monstrosity (shapechanger)",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 8,
+      "die_size": 8,
+      "mod": 16
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Draft Horse",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Dragon Turtle",
+    "type": {
+      "size": "Gargantuan",
+      "type": "dragon",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 341,
+      "num_dice": 22,
+      "die_size": 20,
+      "mod": 10
+    },
+    "armor": {
+      "armor_class": 20,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "17",
+      "xp": "18,000"
+    }
+  },
+  {
+    "name": "Dretch",
+    "type": {
+      "size": "Small",
+      "type": "fiend (demon)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 18,
+      "num_dice": 4,
+      "die_size": 6,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Drider",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 123,
+      "num_dice": 13,
+      "die_size": 10,
+      "mod": 52
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Drow",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (elf)",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 3,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Chain Shirt"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Druid",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 27,
+      "num_dice": 5,
+      "die_size": 8,
+      "mod": 5
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "16 With Barkskin"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Dryad",
+    "type": {
+      "size": "Medium",
+      "type": "fey",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "16 With Barkskin"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Duergar",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (dwarf)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 26,
+      "num_dice": 4,
+      "die_size": 8,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Scale Mail, Shield"
+    },
+    "speeds": [
+      {
+        "amount": 25,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Dust Mephit",
+    "type": {
+      "size": "Small",
+      "type": "elemental",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 17,
+      "num_dice": 5,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Eagle",
+    "type": {
+      "size": "Small",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 3,
+      "num_dice": 1,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Earth Elemental",
+    "type": {
+      "size": "Large",
+      "type": "elemental",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 126,
+      "num_dice": 12,
+      "die_size": 10,
+      "mod": 60
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "burrow"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Efreeti",
+    "type": {
+      "size": "Large",
+      "type": "elemental",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 200,
+      "num_dice": 16,
+      "die_size": 10,
+      "mod": 112
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "11",
+      "xp": "7,200"
+    }
+  },
+  {
+    "name": "Elephant",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 76,
+      "num_dice": 8,
+      "die_size": 12,
+      "mod": 24
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Elk",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 2,
+      "die_size": 10,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Erinyes",
+    "type": {
+      "size": "Medium",
+      "type": "fiend (devil)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 153,
+      "num_dice": 18,
+      "die_size": 8,
+      "mod": 72
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Plate"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "12",
+      "xp": "8,400"
+    }
+  },
+  {
+    "name": "Ettercap",
+    "type": {
+      "size": "Medium",
+      "type": "monstrosity",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 44,
+      "num_dice": 8,
+      "die_size": 8,
+      "mod": 8
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Ettin",
+    "type": {
+      "size": "Large",
+      "type": "giant",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 85,
+      "num_dice": 10,
+      "die_size": 10,
+      "mod": 30
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Fire Elemental",
+    "type": {
+      "size": "Large",
+      "type": "elemental",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 102,
+      "num_dice": 12,
+      "die_size": 10,
+      "mod": 36
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Fire Giant",
+    "type": {
+      "size": "Huge",
+      "type": "giant",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 162,
+      "num_dice": 13,
+      "die_size": 12,
+      "mod": 78
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Plate"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "9",
+      "xp": "5,000"
+    }
+  },
+  {
+    "name": "Flesh Golem",
+    "type": {
+      "size": "Medium",
+      "type": "construct",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 93,
+      "num_dice": 11,
+      "die_size": 8,
+      "mod": 44
+    },
+    "armor": {
+      "armor_class": 9,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Flying Snake",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 5,
+      "num_dice": 2,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Flying Sword",
+    "type": {
+      "size": "Small",
+      "type": "construct",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 17,
+      "num_dice": 5,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Frog",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Frost Giant",
+    "type": {
+      "size": "Huge",
+      "type": "giant",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 138,
+      "num_dice": 12,
+      "die_size": 12,
+      "mod": 60
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Patchwork Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Gargoyle",
+    "type": {
+      "size": "Medium",
+      "type": "elemental",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 7,
+      "die_size": 8,
+      "mod": 21
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Gelatinous Cube",
+    "type": {
+      "size": "Large",
+      "type": "ooze",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 84,
+      "num_dice": 8,
+      "die_size": 10,
+      "mod": 40
+    },
+    "armor": {
+      "armor_class": 6,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 15,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Ghast",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 36,
+      "num_dice": 8,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Ghost",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 10,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Ghoul",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Giant Ape",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 157,
+      "num_dice": 15,
+      "die_size": 12,
+      "mod": 60
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "7",
+      "xp": "2,900"
+    }
+  },
+  {
+    "name": "Giant Badger",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 10,
+        "unit": "ft.",
+        "type": "burrow"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Giant Bat",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 4,
+      "die_size": 10
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Giant Boar",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 42,
+      "num_dice": 5,
+      "die_size": 10,
+      "mod": 15
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Giant Centipede",
+    "type": {
+      "size": "Small",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 4,
+      "num_dice": 1,
+      "die_size": 6,
+      "mod": 1
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Giant Constrictor Snake",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 60,
+      "num_dice": 8,
+      "die_size": 12,
+      "mod": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Giant Crab",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 3,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Giant Crocodile",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 85,
+      "num_dice": 9,
+      "die_size": 12,
+      "mod": 27
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Giant Eagle",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Neutral Good"
+    },
+    "health": {
+      "avg": 26,
+      "num_dice": 4,
+      "die_size": 10,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Giant Elk",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 42,
+      "num_dice": 5,
+      "die_size": 12,
+      "mod": 10
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 60,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Giant Fire Beetle",
+    "type": {
+      "size": "Small",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 4,
+      "num_dice": 1,
+      "die_size": 6,
+      "mod": 1
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Giant Frog",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 18,
+      "num_dice": 4,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Giant Goat",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Giant Hyena",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 6,
+      "die_size": 10,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Giant Lizard",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Giant Octopus",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 8,
+      "die_size": 10,
+      "mod": 8
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Giant Owl",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 5,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Giant Poisonous Snake",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Giant Rat",
+    "type": {
+      "size": "Small",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 7,
+      "num_dice": 2,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Giant Scorpion",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 7,
+      "die_size": 10,
+      "mod": 14
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Giant Sea Horse",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 16,
+      "num_dice": 3,
+      "die_size": 10
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Giant Shark",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 126,
+      "num_dice": 11,
+      "die_size": 12,
+      "mod": 55
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "Swim"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Giant Spider",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 26,
+      "num_dice": 4,
+      "die_size": 10,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Giant Toad",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 39,
+      "num_dice": 6,
+      "die_size": 10,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Giant Vulture",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Giant Wasp",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 3,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Giant Weasel",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 9,
+      "num_dice": 2,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Giant Wolf Spider",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Gibbering Mouther",
+    "type": {
+      "size": "Medium",
+      "type": "aberration",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 67,
+      "num_dice": 9,
+      "die_size": 8,
+      "mod": 27
+    },
+    "armor": {
+      "armor_class": 9,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 10,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Glabrezu",
+    "type": {
+      "size": "Large",
+      "type": "fiend (demon)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 157,
+      "num_dice": 15,
+      "die_size": 10,
+      "mod": 75
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "9",
+      "xp": "5,000"
+    }
+  },
+  {
+    "name": "Gladiator",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 112,
+      "num_dice": 15,
+      "die_size": 8,
+      "mod": 45
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Studded Leather, Shield"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Gnoll",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (gnoll)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Hide Armor, Shield"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Goat",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 4,
+      "num_dice": 1,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Goblin",
+    "type": {
+      "size": "Small",
+      "type": "humanoid (goblinoid)",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 7,
+      "num_dice": 2,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Leather Armor, Shield"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Gold Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 60,
+      "num_dice": 8,
+      "die_size": 8,
+      "mod": 24
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Gorgon",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 114,
+      "num_dice": 12,
+      "die_size": 10,
+      "mod": 48
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Gray Ooze",
+    "type": {
+      "size": "Medium",
+      "type": "ooze",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 3,
+      "die_size": 8,
+      "mod": 9
+    },
+    "armor": {
+      "armor_class": 8,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 10,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Green Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 38,
+      "num_dice": 7,
+      "die_size": 8,
+      "mod": 7
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Green Hag",
+    "type": {
+      "size": "Medium",
+      "type": "fey",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 82,
+      "num_dice": 11,
+      "die_size": 8,
+      "mod": 33
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Grick",
+    "type": {
+      "size": "Medium",
+      "type": "monstrosity",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 27,
+      "num_dice": 6,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Griffon",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 59,
+      "num_dice": 7,
+      "die_size": 10,
+      "mod": 21
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Grimlock",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (grimlock)",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Guard",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Chain Shirt, Shield"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Guardian Naga",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 127,
+      "num_dice": 15,
+      "die_size": 10,
+      "mod": 45
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "10",
+      "xp": "5,900"
+    }
+  },
+  {
+    "name": "Gynosphinx",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Lawful Neutral"
+    },
+    "health": {
+      "avg": 136,
+      "num_dice": 16,
+      "die_size": 10,
+      "mod": 48
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "11",
+      "xp": "7,200"
+    }
+  },
+  {
+    "name": "Half-Red Dragon Veteran",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (human)",
+      "alignment": "Any"
+    },
+    "health": {
+      "avg": 65,
+      "num_dice": 10,
+      "die_size": 8,
+      "mod": 20
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "plate"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Harpy",
+    "type": {
+      "size": "Medium",
+      "type": "monstrosity",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 38,
+      "num_dice": 7,
+      "die_size": 8,
+      "mod": 7
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Hawk",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Hell Hound",
+    "type": {
+      "size": "Medium",
+      "type": "fiend",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 7,
+      "die_size": 8,
+      "mod": 14
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Hezrou",
+    "type": {
+      "size": "Large",
+      "type": "fiend (demon)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 136,
+      "num_dice": 13,
+      "die_size": 10,
+      "mod": 65
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Hill Giant",
+    "type": {
+      "size": "Huge",
+      "type": "giant",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 105,
+      "num_dice": 10,
+      "die_size": 12,
+      "mod": 40
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Hippogriff",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Hobgoblin",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (goblinoid)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Chain Mail, Shield"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Homunculus",
+    "type": {
+      "size": "Tiny",
+      "type": "construct",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 5,
+      "num_dice": 2,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Horned Devil",
+    "type": {
+      "size": "Large",
+      "type": "fiend (devil)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 178,
+      "num_dice": 17,
+      "die_size": 10,
+      "mod": 85
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "11",
+      "xp": "7,200"
+    }
+  },
+  {
+    "name": "Hunter Shark",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 6,
+      "die_size": 10,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "Swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Hydra",
+    "type": {
+      "size": "Huge",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 172,
+      "num_dice": 15,
+      "die_size": 12,
+      "mod": 75
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Hyena",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 5,
+      "num_dice": 1,
+      "die_size": 8,
+      "mod": 1
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Ice Devil",
+    "type": {
+      "size": "Large",
+      "type": "fiend (devil)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 180,
+      "num_dice": 19,
+      "die_size": 10,
+      "mod": 76
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "14",
+      "xp": "11,500"
+    }
+  },
+  {
+    "name": "Ice Mephit",
+    "type": {
+      "size": "Small",
+      "type": "elemental",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 21,
+      "num_dice": 6,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Imp",
+    "type": {
+      "size": "Tiny",
+      "type": "fiend (devil",
+      "alignment": "shapechanger), Lawful Evil"
+    },
+    "health": {
+      "avg": 10,
+      "num_dice": 3,
+      "die_size": 4,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Incubus",
+    "type": {
+      "size": "Medium",
+      "type": "Fiend (Shapechanger)",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 66,
+      "num_dice": 12,
+      "die_size": 8,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Invisible Stalker",
+    "type": {
+      "size": "Medium",
+      "type": "elemental",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 104,
+      "num_dice": 16,
+      "die_size": 8,
+      "mod": 32
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Iron Golem",
+    "type": {
+      "size": "Large",
+      "type": "construct",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 210,
+      "num_dice": 20,
+      "die_size": 10,
+      "mod": 100
+    },
+    "armor": {
+      "armor_class": 20,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "16",
+      "xp": "15,000"
+    }
+  },
+  {
+    "name": "Jackal",
+    "type": {
+      "size": "Small",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 3,
+      "num_dice": 1,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Killer Whale",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 90,
+      "num_dice": 12,
+      "die_size": 12,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "Swim"
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Knight",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 8,
+      "die_size": 8,
+      "mod": 16
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Plate"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Kobold",
+    "type": {
+      "size": "Small",
+      "type": "humanoid (kobold)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 5,
+      "num_dice": 2,
+      "die_size": 6,
+      "mod": -2
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Kraken",
+    "type": {
+      "size": "Gargantuan",
+      "type": "monstrosity (titan)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 472,
+      "num_dice": 27,
+      "die_size": 20,
+      "mod": 189
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "23",
+      "xp": "50,000"
+    }
+  },
+  {
+    "name": "Lamia",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 97,
+      "num_dice": 13,
+      "die_size": 10,
+      "mod": 26
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Lemure",
+    "type": {
+      "size": "Medium",
+      "type": "fiend (devil)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 3,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 7,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 15,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Lich",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Any Evil Alignment"
+    },
+    "health": {
+      "avg": 135,
+      "num_dice": 18,
+      "die_size": 8,
+      "mod": 54
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "21",
+      "xp": "33,000"
+    }
+  },
+  {
+    "name": "Lion",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 26,
+      "num_dice": 4,
+      "die_size": 10,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Lizard",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 2,
+      "num_dice": 1,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Lizardfolk",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (lizardfolk)",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 4,
+      "die_size": 8,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor, Shield"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Mage",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 40,
+      "num_dice": 9,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "15 With Mage Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Magma Mephit",
+    "type": {
+      "size": "Small",
+      "type": "elemental",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 6,
+      "mod": 5
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Magmin",
+    "type": {
+      "size": "Small",
+      "type": "elemental",
+      "alignment": "Chaotic Neutral"
+    },
+    "health": {
+      "avg": 9,
+      "num_dice": 2,
+      "die_size": 6,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Mammoth",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 126,
+      "num_dice": 11,
+      "die_size": 12,
+      "mod": 55
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Manticore",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 68,
+      "num_dice": 8,
+      "die_size": 10,
+      "mod": 24
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Marilith",
+    "type": {
+      "size": "Large",
+      "type": "fiend (demon)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 189,
+      "num_dice": 18,
+      "die_size": 10,
+      "mod": 90
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "16",
+      "xp": "15,000"
+    }
+  },
+  {
+    "name": "Mastiff",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 5,
+      "num_dice": 1,
+      "die_size": 8,
+      "mod": 1
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Medusa",
+    "type": {
+      "size": "Medium",
+      "type": "monstrosity",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 127,
+      "num_dice": 17,
+      "die_size": 8,
+      "mod": 51
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Merfolk",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (merfolk)",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Merrow",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 6,
+      "die_size": 10,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Mimic",
+    "type": {
+      "size": "Medium",
+      "type": "monstrosity (shapechanger)",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 58,
+      "num_dice": 9,
+      "die_size": 8,
+      "mod": 18
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 15,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Minotaur",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 76,
+      "num_dice": 9,
+      "die_size": 10,
+      "mod": 27
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Minotaur Skeleton",
+    "type": {
+      "size": "Large",
+      "type": "undead",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 67,
+      "num_dice": 9,
+      "die_size": 10,
+      "mod": 18
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Mule",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Mummy",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 58,
+      "num_dice": 9,
+      "die_size": 8,
+      "mod": 18
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Mummy Lord",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 97,
+      "num_dice": 13,
+      "die_size": 8,
+      "mod": 39
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "15",
+      "xp": "13,000"
+    }
+  },
+  {
+    "name": "Nalfeshnee",
+    "type": {
+      "size": "Large",
+      "type": "fiend (demon)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 184,
+      "num_dice": 16,
+      "die_size": 10,
+      "mod": 96
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "13",
+      "xp": "10,000"
+    }
+  },
+  {
+    "name": "Night Hag",
+    "type": {
+      "size": "Medium",
+      "type": "fiend",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 112,
+      "num_dice": 15,
+      "die_size": 8,
+      "mod": 45
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Nightmare",
+    "type": {
+      "size": "Large",
+      "type": "fiend",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 68,
+      "num_dice": 8,
+      "die_size": 10,
+      "mod": 24
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 60,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 90,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Noble",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 9,
+      "num_dice": 2,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Breastplate"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Ochre Jelly",
+    "type": {
+      "size": "Large",
+      "type": "ooze",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 6,
+      "die_size": 10,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 8,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 10,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Octopus",
+    "type": {
+      "size": "Small",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 3,
+      "num_dice": 1,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 5,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Ogre",
+    "type": {
+      "size": "Large",
+      "type": "giant",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 59,
+      "num_dice": 7,
+      "die_size": 10,
+      "mod": 21
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Hide Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Ogre Zombie",
+    "type": {
+      "size": "Large",
+      "type": "undead",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 85,
+      "num_dice": 9,
+      "die_size": 10,
+      "mod": 36
+    },
+    "armor": {
+      "armor_class": 8,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Oni",
+    "type": {
+      "size": "Large",
+      "type": "giant",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 110,
+      "num_dice": 13,
+      "die_size": 10,
+      "mod": 39
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Chain Mail"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "7",
+      "xp": "2,900"
+    }
+  },
+  {
+    "name": "Orc",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (orc)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 15,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Hide Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Otyugh",
+    "type": {
+      "size": "Large",
+      "type": "aberration",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 114,
+      "num_dice": 12,
+      "die_size": 10,
+      "mod": 48
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Owl",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 5,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Owlbear",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 59,
+      "num_dice": 7,
+      "die_size": 10,
+      "mod": 21
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Panther",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 3,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Pegasus",
+    "type": {
+      "size": "Large",
+      "type": "celestial",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 59,
+      "num_dice": 7,
+      "die_size": 10,
+      "mod": 21
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 60,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 90,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Phase Spider",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 32,
+      "num_dice": 5,
+      "die_size": 10,
+      "mod": 5
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Pit Fiend",
+    "type": {
+      "size": "Large",
+      "type": "fiend (devil)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 300,
+      "num_dice": 24,
+      "die_size": 10,
+      "mod": 168
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "20",
+      "xp": "25,000"
+    }
+  },
+  {
+    "name": "Planetar",
+    "type": {
+      "size": "Large",
+      "type": "celestial",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 200,
+      "num_dice": 16,
+      "die_size": 10,
+      "mod": 112
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 120,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "16",
+      "xp": "15,000"
+    }
+  },
+  {
+    "name": "Plesiosaurus",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 68,
+      "num_dice": 8,
+      "die_size": 10,
+      "mod": 24
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Poisonous Snake",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 2,
+      "num_dice": 1,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Polar Bear",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 42,
+      "num_dice": 5,
+      "die_size": 10,
+      "mod": 15
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Pony",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Priest",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 27,
+      "num_dice": 5,
+      "die_size": 8,
+      "mod": 5
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Chain Shirt"
+    },
+    "speeds": [
+      {
+        "amount": 25,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Pseudodragon",
+    "type": {
+      "size": "Tiny",
+      "type": "dragon",
+      "alignment": "Neutral Good"
+    },
+    "health": {
+      "avg": 7,
+      "num_dice": 2,
+      "die_size": 4,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 15,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Purple Worm",
+    "type": {
+      "size": "Gargantuan",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 247,
+      "num_dice": 15,
+      "die_size": 20,
+      "mod": 90
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "burrow"
+      }
+    ],
+    "cr": {
+      "cr": "15",
+      "xp": "13,000"
+    }
+  },
+  {
+    "name": "Quasit",
+    "type": {
+      "size": "Tiny",
+      "type": "fiend (demon)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 7,
+      "num_dice": 3,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Quipper",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "Swim"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Rakshasa",
+    "type": {
+      "size": "Medium",
+      "type": "fiend",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 110,
+      "num_dice": 13,
+      "die_size": 8,
+      "mod": 52
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "13",
+      "xp": "10,000"
+    }
+  },
+  {
+    "name": "Rat",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Raven",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Red Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 75,
+      "num_dice": 10,
+      "die_size": 8,
+      "mod": 30
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.,",
+        "type": "climb"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Reef Shark",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 4,
+      "die_size": 8,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "Swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Remorhaz",
+    "type": {
+      "size": "Huge",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 195,
+      "num_dice": 17,
+      "die_size": 12,
+      "mod": 85
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "burrow"
+      }
+    ],
+    "cr": {
+      "cr": "11",
+      "xp": "7,200"
+    }
+  },
+  {
+    "name": "Rhinoceros",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 6,
+      "die_size": 10,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Riding Horse",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 2,
+      "die_size": 10,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 60,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Roc",
+    "type": {
+      "size": "Gargantuan",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 248,
+      "num_dice": 16,
+      "die_size": 20,
+      "mod": 80
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 120,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "11",
+      "xp": "7,200"
+    }
+  },
+  {
+    "name": "Roper",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 93,
+      "num_dice": 11,
+      "die_size": 10,
+      "mod": 33
+    },
+    "armor": {
+      "armor_class": 20,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 10,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Rug of Smothering",
+    "type": {
+      "size": "Large",
+      "type": "construct",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 33,
+      "num_dice": 6,
+      "die_size": 10
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Rust Monster",
+    "type": {
+      "size": "Medium",
+      "type": "monstrosity",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 27,
+      "num_dice": 5,
+      "die_size": 8,
+      "mod": 5
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Saber-Toothed Tiger",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 7,
+      "die_size": 10,
+      "mod": 14
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Sahuagin",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (sahuagin)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 4,
+      "die_size": 8,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Salamander",
+    "type": {
+      "size": "Large",
+      "type": "elemental",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 90,
+      "num_dice": 12,
+      "die_size": 10,
+      "mod": 24
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Satyr",
+    "type": {
+      "size": "Medium",
+      "type": "fey",
+      "alignment": "Chaotic Neutral"
+    },
+    "health": {
+      "avg": 31,
+      "num_dice": 7,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Leather Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Scorpion",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Scout",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 16,
+      "num_dice": 3,
+      "die_size": 8,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Leather Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Sea Hag",
+    "type": {
+      "size": "Medium",
+      "type": "fey",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 52,
+      "num_dice": 7,
+      "die_size": 8,
+      "mod": 21
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Sea Horse",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "Swim"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Shadow",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 16,
+      "num_dice": 3,
+      "die_size": 8,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Shambling Mound",
+    "type": {
+      "size": "Large",
+      "type": "plant",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 136,
+      "num_dice": 16,
+      "die_size": 10,
+      "mod": 48
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Shield Guardian",
+    "type": {
+      "size": "Large",
+      "type": "construct",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 142,
+      "num_dice": 15,
+      "die_size": 10,
+      "mod": 60
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "7",
+      "xp": "2,900"
+    }
+  },
+  {
+    "name": "Shrieker",
+    "type": {
+      "size": "Medium",
+      "type": "plant",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 3,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 5,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Silver Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 6,
+      "die_size": 8,
+      "mod": 18
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Skeleton",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 13,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Armor Scraps"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Solar",
+    "type": {
+      "size": "Large",
+      "type": "celestial",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 243,
+      "num_dice": 18,
+      "die_size": 10,
+      "mod": 144
+    },
+    "armor": {
+      "armor_class": 21,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 150,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "21",
+      "xp": "33,000"
+    }
+  },
+  {
+    "name": "Specter",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Spider",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Spirit Naga",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 75,
+      "num_dice": 10,
+      "die_size": 10,
+      "mod": 20
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Sprite",
+    "type": {
+      "size": "Tiny",
+      "type": "fey",
+      "alignment": "Neutral Good"
+    },
+    "health": {
+      "avg": 2,
+      "num_dice": 1,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Leather Armor"
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Spy",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 27,
+      "num_dice": 6,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Steam Mephit",
+    "type": {
+      "size": "Small",
+      "type": "elemental",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 21,
+      "num_dice": 6,
+      "die_size": 6
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Stirge",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 2,
+      "num_dice": 1,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Stone Giant",
+    "type": {
+      "size": "Huge",
+      "type": "giant",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 126,
+      "num_dice": 11,
+      "die_size": 12,
+      "mod": 55
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "7",
+      "xp": "2,900"
+    }
+  },
+  {
+    "name": "Stone Golem",
+    "type": {
+      "size": "Large",
+      "type": "construct",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 178,
+      "num_dice": 17,
+      "die_size": 10,
+      "mod": 85
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "10",
+      "xp": "5,900"
+    }
+  },
+  {
+    "name": "Storm Giant",
+    "type": {
+      "size": "Huge",
+      "type": "giant",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 230,
+      "num_dice": 20,
+      "die_size": 12,
+      "mod": 100
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Scale Mail"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "13",
+      "xp": "10,000"
+    }
+  },
+  {
+    "name": "Succubus",
+    "type": {
+      "size": "Medium",
+      "type": "Fiend (Shapechanger)",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 66,
+      "num_dice": 12,
+      "die_size": 8,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Succubus (Incubus)",
+    "type": {
+      "size": "Medium",
+      "type": "fiend (shapechanger)",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 66,
+      "num_dice": 12,
+      "die_size": 8,
+      "mod": 12
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Swarm of Bats",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Swarm of Beetles",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 5,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Swarm of Centipedes",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Swarm of Insects",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Swarm of Poisonous Snakes",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 36,
+      "num_dice": 8,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Swarm of Quippers",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 28,
+      "num_dice": 8,
+      "die_size": 8,
+      "mod": -8
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Swarm of Rats",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 24,
+      "num_dice": 7,
+      "die_size": 8,
+      "mod": -7
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Swarm of Ravens",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 24,
+      "num_dice": 7,
+      "die_size": 8,
+      "mod": -7
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Swarm of Spiders",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Swarm of Wasps",
+    "type": {
+      "size": "Medium",
+      "type": "swarm of tiny beasts",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 5,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 5,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Tarrasque",
+    "type": {
+      "size": "Gargantuan",
+      "type": "monstrosity (titan)",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 676,
+      "num_dice": 33,
+      "die_size": 20,
+      "mod": 330
+    },
+    "armor": {
+      "armor_class": 25,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "30",
+      "xp": "155,000"
+    }
+  },
+  {
+    "name": "Thug",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Non-good Alignment"
+    },
+    "health": {
+      "avg": 32,
+      "num_dice": 5,
+      "die_size": 8,
+      "mod": 10
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "Leather Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Tiger",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 37,
+      "num_dice": 5,
+      "die_size": 10,
+      "mod": 10
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1",
+      "xp": "200"
+    }
+  },
+  {
+    "name": "Treant",
+    "type": {
+      "size": "Huge",
+      "type": "plant",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 138,
+      "num_dice": 12,
+      "die_size": 12,
+      "mod": 60
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "9",
+      "xp": "5,000"
+    }
+  },
+  {
+    "name": "Tribal Warrior",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": "Hide Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/8",
+      "xp": "25"
+    }
+  },
+  {
+    "name": "Triceratops",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 95,
+      "num_dice": 10,
+      "die_size": 12,
+      "mod": 30
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Troll",
+    "type": {
+      "size": "Large",
+      "type": "giant",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 84,
+      "num_dice": 8,
+      "die_size": 10,
+      "mod": 40
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Tyrannosaurus Rex",
+    "type": {
+      "size": "Huge",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 136,
+      "num_dice": 13,
+      "die_size": 12,
+      "mod": 52
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Unicorn",
+    "type": {
+      "size": "Large",
+      "type": "celestial",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 67,
+      "num_dice": 9,
+      "die_size": 10,
+      "mod": 18
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Vampire",
+    "type": {
+      "size": "Medium",
+      "type": "undead (shapechanger)",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 144,
+      "num_dice": 17,
+      "die_size": 8,
+      "mod": 68
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "13",
+      "xp": "10,000"
+    }
+  },
+  {
+    "name": "Vampire Spawn",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 82,
+      "num_dice": 11,
+      "die_size": 8,
+      "mod": 33
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Veteran",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (any race)",
+      "alignment": "Any Alignment"
+    },
+    "health": {
+      "avg": 58,
+      "num_dice": 9,
+      "die_size": 8,
+      "mod": 18
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Splint"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Violet Fungus",
+    "type": {
+      "size": "Medium",
+      "type": "plant",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 18,
+      "num_dice": 4,
+      "die_size": 8
+    },
+    "armor": {
+      "armor_class": 5,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 5,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Vrock",
+    "type": {
+      "size": "Large",
+      "type": "fiend (demon)",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 104,
+      "num_dice": 11,
+      "die_size": 10,
+      "mod": 44
+    },
+    "armor": {
+      "armor_class": 15,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Vulture",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 5,
+      "num_dice": 1,
+      "die_size": 8,
+      "mod": 1
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 10,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Warhorse",
+    "type": {
+      "size": "Large",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 19,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 3
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 60,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Warhorse Skeleton",
+    "type": {
+      "size": "Large",
+      "type": "undead",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 3,
+      "die_size": 10,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Barding Scraps"
+    },
+    "speeds": [
+      {
+        "amount": 60,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Water Elemental",
+    "type": {
+      "size": "Large",
+      "type": "elemental",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 114,
+      "num_dice": 12,
+      "die_size": 10,
+      "mod": 48
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 90,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Weasel",
+    "type": {
+      "size": "Tiny",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 1,
+      "num_dice": 1,
+      "die_size": 4,
+      "mod": -1
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "0",
+      "xp": "10"
+    }
+  },
+  {
+    "name": "Werebear",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (human",
+      "alignment": "shapechanger), Neutral Good"
+    },
+    "health": {
+      "avg": 135,
+      "num_dice": 18,
+      "die_size": 8,
+      "mod": 54
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": "In Humanoid Form, 11 In Bear And Hybrid Forms "
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "climb"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Wereboar",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (human",
+      "alignment": "shapechanger), Neutral Evil"
+    },
+    "health": {
+      "avg": 78,
+      "num_dice": 12,
+      "die_size": 8,
+      "mod": 24
+    },
+    "armor": {
+      "armor_class": 10,
+      "type": "In Humanoid Form, 11 In Boar And Hybrid Forms "
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      },
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Wererat",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (human",
+      "alignment": "shapechanger), Lawful Evil"
+    },
+    "health": {
+      "avg": 33,
+      "num_dice": 6,
+      "die_size": 8,
+      "mod": 6
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Weretiger",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (human",
+      "alignment": "shapechanger), Neutral"
+    },
+    "health": {
+      "avg": 120,
+      "num_dice": 16,
+      "die_size": 8,
+      "mod": 48
+    },
+    "armor": {
+      "armor_class": 12,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      },
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "4",
+      "xp": "1,100"
+    }
+  },
+  {
+    "name": "Werewolf",
+    "type": {
+      "size": "Medium",
+      "type": "humanoid (human",
+      "alignment": "shapechanger), Chaotic Evil"
+    },
+    "health": {
+      "avg": 58,
+      "num_dice": 9,
+      "die_size": 8,
+      "mod": 18
+    },
+    "armor": {
+      "armor_class": 11,
+      "type": "In Humanoid Form, 12 In Wolf Or Hybrid Form"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      },
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "White Dragon Wyrmling",
+    "type": {
+      "size": "Medium",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 32,
+      "num_dice": 5,
+      "die_size": 8,
+      "mod": 10
+    },
+    "armor": {
+      "armor_class": 16,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 15,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 30,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Wight",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 45,
+      "num_dice": 6,
+      "die_size": 8,
+      "mod": 18
+    },
+    "armor": {
+      "armor_class": 14,
+      "type": "Studded Leather"
+    },
+    "speeds": [
+      {
+        "amount": 30,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Will-o'-Wisp",
+    "type": {
+      "size": "Tiny",
+      "type": "undead",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 9,
+      "die_size": 4
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 50,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "2",
+      "xp": "450"
+    }
+  },
+  {
+    "name": "Winter Wolf",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 75,
+      "num_dice": 10,
+      "die_size": 10,
+      "mod": 20
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "3",
+      "xp": "700"
+    }
+  },
+  {
+    "name": "Wolf",
+    "type": {
+      "size": "Medium",
+      "type": "beast",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 11,
+      "num_dice": 2,
+      "die_size": 8,
+      "mod": 2
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  },
+  {
+    "name": "Worg",
+    "type": {
+      "size": "Large",
+      "type": "monstrosity",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 26,
+      "num_dice": 4,
+      "die_size": 10,
+      "mod": 4
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 50,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/2",
+      "xp": "100"
+    }
+  },
+  {
+    "name": "Wraith",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 67,
+      "num_dice": 9,
+      "die_size": 8,
+      "mod": 27
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 0,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 60,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Wyvern",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Unaligned"
+    },
+    "health": {
+      "avg": 110,
+      "num_dice": 13,
+      "die_size": 10,
+      "mod": 39
+    },
+    "armor": {
+      "armor_class": 13,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Xorn",
+    "type": {
+      "size": "Medium",
+      "type": "elemental",
+      "alignment": "Neutral"
+    },
+    "health": {
+      "avg": 73,
+      "num_dice": 7,
+      "die_size": 8,
+      "mod": 42
+    },
+    "armor": {
+      "armor_class": 19,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.",
+        "type": "burrow"
+      }
+    ],
+    "cr": {
+      "cr": "5",
+      "xp": "1,800"
+    }
+  },
+  {
+    "name": "Young Black Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 127,
+      "num_dice": 15,
+      "die_size": 10,
+      "mod": 45
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "7",
+      "xp": "2,900"
+    }
+  },
+  {
+    "name": "Young Blue Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 152,
+      "num_dice": 16,
+      "die_size": 10,
+      "mod": 64
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "9",
+      "xp": "5,000"
+    }
+  },
+  {
+    "name": "Young Brass Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 110,
+      "num_dice": 13,
+      "die_size": 10,
+      "mod": 39
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Young Bronze Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 142,
+      "num_dice": 15,
+      "die_size": 10,
+      "mod": 60
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Young Copper Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Chaotic Good"
+    },
+    "health": {
+      "avg": 119,
+      "num_dice": 14,
+      "die_size": 10,
+      "mod": 42
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "climb"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "7",
+      "xp": "2,900"
+    }
+  },
+  {
+    "name": "Young Gold Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 178,
+      "num_dice": 17,
+      "die_size": 10,
+      "mod": 85
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "10",
+      "xp": "5,900"
+    }
+  },
+  {
+    "name": "Young Green Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Lawful Evil"
+    },
+    "health": {
+      "avg": 136,
+      "num_dice": 16,
+      "die_size": 10,
+      "mod": 48
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "8",
+      "xp": "3,900"
+    }
+  },
+  {
+    "name": "Young Red Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 178,
+      "num_dice": 17,
+      "die_size": 10,
+      "mod": 85
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.,",
+        "type": "climb"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "10",
+      "xp": "5,900"
+    }
+  },
+  {
+    "name": "Young Silver Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Lawful Good"
+    },
+    "health": {
+      "avg": 168,
+      "num_dice": 16,
+      "die_size": 10,
+      "mod": 80
+    },
+    "armor": {
+      "armor_class": 18,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.",
+        "type": "fly"
+      }
+    ],
+    "cr": {
+      "cr": "9",
+      "xp": "5,000"
+    }
+  },
+  {
+    "name": "Young White Dragon",
+    "type": {
+      "size": "Large",
+      "type": "dragon",
+      "alignment": "Chaotic Evil"
+    },
+    "health": {
+      "avg": 133,
+      "num_dice": 14,
+      "die_size": 10,
+      "mod": 56
+    },
+    "armor": {
+      "armor_class": 17,
+      "type": "Natural Armor"
+    },
+    "speeds": [
+      {
+        "amount": 40,
+        "unit": "ft.,"
+      },
+      {
+        "amount": 20,
+        "unit": "ft.,",
+        "type": "burrow"
+      },
+      {
+        "amount": 80,
+        "unit": "ft.,",
+        "type": "fly"
+      },
+      {
+        "amount": 40,
+        "unit": "ft.",
+        "type": "swim"
+      }
+    ],
+    "cr": {
+      "cr": "6",
+      "xp": "2,300"
+    }
+  },
+  {
+    "name": "Zombie",
+    "type": {
+      "size": "Medium",
+      "type": "undead",
+      "alignment": "Neutral Evil"
+    },
+    "health": {
+      "avg": 22,
+      "num_dice": 3,
+      "die_size": 8,
+      "mod": 9
+    },
+    "armor": {
+      "armor_class": 8,
+      "type": null
+    },
+    "speeds": [
+      {
+        "amount": 20,
+        "unit": "ft."
+      }
+    ],
+    "cr": {
+      "cr": "1/4",
+      "xp": "50"
+    }
+  }
+]
