@@ -86,7 +86,7 @@ class MonsterDB:
 monster_db = MonsterDB.from_file('./data/monsters.json')
 
 
-@router.get("/list", response_model=list[str])
+@router.get("/", response_model=list[str])
 def list_monsters() -> list[str]:
     return monster_db.list()
 
