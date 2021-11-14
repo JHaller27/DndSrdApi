@@ -27,7 +27,17 @@ class MonsterDB:
         return new
 
     def _hash(self, monster: OutputMonsterInfo) -> str:
-        return self._normalize_key(monster.name)
+        key = self._normalize_key(monster.name)
+        if key not in self._monsters:
+            return key
+
+        num = 1
+        revd_key = key + f'-{num}'
+        while revd_key in self._monsters:
+            num += 1
+            revd_key = key + f'-{num}'
+
+        return revd_key
 
     @staticmethod
     def _normalize_key(key: str) -> str:
